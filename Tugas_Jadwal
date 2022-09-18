@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<style>
+  body{
+    margin: 0;
+    padding: 0;
+  }
+table, th, td {
+  border:1px solid black;
+  width: 5%;
+  height: 5%;
+}
+.div-jadwal{
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            height: 200%;
+        }
+.tr1{
+            background-color: blue;
+            color: white;
+            text-align: center
+        }
+</style>
+<body>
+    <div class="div-jadwal">
+        <h1 style="color:rgb(41, 6, 157)">Jadwal Kuliah Semester 5</h1>
+    </div>
+<p> Nama  : Maria Ferbianty Finnansa </p>
+<p> NIM   : 205314069 </p>
+<p> Kelas : Pemprograman Berbasis Platfrom AP </p>
+
+<table style="width:100%">
+      <tr>
+          <th colspan="16">Jadwal Kuliah</th>
+      </tr>
+    <tr>
+      <th width ="40" height ="40" bgcolor="Lightblue">Hari/Jam</th>
+      <th width ="40" height ="40" bgcolor="Lightblue">06-07</th>
+      <th  bgcolor="Lightblue">07-08</th>
+      <th  bgcolor="Lightblue">08-09</th>
+      <th  bgcolor="Lightblue">09-10</th>
+      <th  bgcolor="Lightblue">10-11</th>
+      <th  bgcolor="Lightblue">11-12</th>
+      <th  bgcolor="Lightblue">12-13</th>
+      <th  bgcolor="Lightblue">13-14</th>
+      <th  bgcolor="Lightblue">14-15</th>
+      <th  bgcolor="Lightblue">15-16</th>
+      <th  bgcolor="Lightblue">16-17</th>
+      <th bgcolor="Lightblue">17-18</th>
+      <th bgcolor="Lightblue">18-19</th>
+      <th bgcolor="Lightblue">19-20</th>
+      <th bgcolor="Lightblue">20-21</th>
+    </tr>
+  <tr >
+    <td width ="40" height ="40" bgcolor="Lightblue">Senin</td>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Strategi Algoritma Kelas D</th>
+    <th width ="40" height ="40" bgcolor="LightGray">Strategi Algoritma Kelas D</th>
+    <th width ="40" height ="40" bgcolor="LightGray">Strategi Algoritma Kelas D</th>
+    <th width ="40" height ="40">     </th>
+    <th width ="40" height ="40">     </th>
+    <th width ="40" height ="40">     </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Pemrograman Platfrom Kelas A</th>
+    <th width ="40" height ="40" bgcolor="LightGray">Pemrograman Platfrom Kelas A</th>
+    <th width ="40" height ="40">     </th>
+    <th width ="40" height ="40">     </th>
+    <th>  </th><
+  </tr>
+  <tr>
+    <td width ="40" height ="40" bgcolor="Lightblue">Selasa</td>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Algoritma Optimasi Kelas A </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Algoritma Optimasi Kelas A </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Algoritma Optimasi Kelas A </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" bgcolor="LightGray">RPL Kelas A </th>
+    <th width ="40" height ="40" bgcolor="LightGray">RPL Kelas A </th>
+    <th width ="40" height ="40" bgcolor="LightGray">RPL Kelas A </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40">     </th>
+  </tr>
+  <tr>
+    <td width ="40" height ="40" bgcolor="Lightblue">Rabu</td>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Pengenalan Pola Kelas B </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Pengenalan Pola Kelas B </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Pengenalan Pola Kelas B </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Administrasi Basis Data B </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Administrasi Basis Data B </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Administrasi Basis Data B </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40">     </th>
+  </tr>
+  <tr>
+    <td width ="40" height ="40" bgcolor="Lightblue">Kamis</td>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Pemrograman Platfrom Kelas AP</th>
+    <th width ="40" height ="40" bgcolor="LightGray">Pemrograman Platfrom Kelas AP</th>
+    <th width ="40" height ="40" bgcolor="LightGray">Pemrograman Platfrom Kelas AP</th>
+    <th width ="40" height ="40" bgcolor="LightGray">RPL Kelas AP </th>
+    <th width ="40" height ="40" bgcolor="LightGray">RPL Kelas AP </th>
+    <th width ="40" height ="40" bgcolor="LightGray">RPL Kelas AP </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Algoritma Optimasi Kelas AP </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Algoritma Optimasi Kelas AP </th>
+    <th width ="40" height ="40" bgcolor="LightGray">Algoritma Optimasi Kelas AP </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40" >    </th>
+    <th width ="40" height ="40">     </th>
+  </tr>
+  <tr>
+    <td bgcolor="Lightblue">Jumat</td>
+    <th ></th>
+    <th bgcolor="LightGray">Pengenalan Pola Kelas BP</th>
+    <th bgcolor="LightGray">Pengenalan Pola Kelas BP</th>
+    <th bgcolor="LightGray">Pengenalan Pola Kelas BP</th>
+    <th bgcolor="LightGray">Manajemen Rantai Pasokan Kelas PB</th>
+    <th bgcolor="LightGray">Manajemen Rantai Pasokan Kelas PB</th>
+    <th bgcolor="LightGray">Manajemen Rantai Pasokan Kelas PB</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th width ="40" height ="40">     </th>
+    <th width ="40" height ="40">     </th>
+
+  </tr>
+  <tr>
+    <td width ="40" height ="40"  bgcolor="Lightblue">Sabtu</td>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">        </th>
+    <th width ="40" height ="40">      </th>
+    <th width ="40" height ="40">       </th>
+    <th width ="40" height ="40">       </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">    </th>
+    <th width ="40" height ="40">     </th>
+  </tr>
+</table>
+</table>
+
+</body>
+</html>
